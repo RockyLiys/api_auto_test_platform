@@ -29,7 +29,7 @@ python-crontab==2.2.8
 python-dateutil==2.8.0
 python-docx==0.8.6
 pytz==2017.3
-PyYAML==5.1.1
+PyYAML==5.4
 requests==2.18.4
 simplejson==3.16.0
 six==1.12.0
